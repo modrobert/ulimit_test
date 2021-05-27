@@ -33,5 +33,6 @@ int main() {
   printf("Open files soft limit: %lu\n", rl.rlim_cur);
   printf("Open files hard limit: %lu\n", rl.rlim_max);
  }
+
  return 0;
 }
