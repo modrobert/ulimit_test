@@ -19,7 +19,7 @@ $ ./ulimit_test
 
 ---
 
-### Example output.
+### Example output
 
 <pre>
 Open files soft limit: 1024
