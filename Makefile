@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -O2 -Wpedantic
+CFLAGS = -Wpedantic
 
 default: ulimit_test
 
