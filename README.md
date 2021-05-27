@@ -33,6 +33,6 @@ Open files hard limit: 1048576
 
 ### Build
 
-Use 'make' or compile manually with:
+Use 'make' or compile manually with:  
 gcc -Wpedantic ulimit_test.c -o ulimit_test
 
